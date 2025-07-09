@@ -3,6 +3,7 @@
 # QRadar Korelasyon Kuralları Test Script
 # Versiyon: 1.0
 # Tarih: 2025-01-29
+# Oğuz ALBAŞ
 # Açıklama: 68 QRadar korelasyon kuralını test eden komple script
 #############################################################################
 
